@@ -1,0 +1,9 @@
+venv/
+build/
+dist/
+click/
+peppercorn/
+isim/
+gpxpy
+bin/
+__pycache__
